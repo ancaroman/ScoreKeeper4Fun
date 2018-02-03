@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Score Keeper 4 Fun</string>
+
+    <string name="action_settings"></string>
+
+
+    <!-- Name of the first team -->
+    <string name="leffe">Team Leffe</string>
+
+    <!-- Name of the second team -->
+    <string name="peroni">Team Peroni</string>
+
+    <!-- This is for the button that adds 3 points to the score -->
+    <string name="_3_points">+3 points</string>
+
+    <!-- This is for the button that adds 2 points to the score -->
+    <string name="_2_points">+2 points</string>
+
+    <!-- This is for the button that adds 1 point to the score -->
+    <string name="_1_point">+1 Point</string>
+
+    <!-- This is for for the message that discourages drinking -->
+    <string name="drink">Drink responsibly!</string>
+
+    <!-- This is for the button that resets the score -->
+    <string name="reset">reset</string>
+
+    <!-- This is for the actual score that is displayed -->
+    <string name="cups">0</string>
+
+</resources>

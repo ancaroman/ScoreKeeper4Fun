@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This is the size of the team names -->
+    <dimen name="textSize1">22sp</dimen>
+
+    <!-- This is the size of the score -->
+    <dimen name="textSize2">47sp</dimen>
+
+    <!-- This is the size of the message "Drink responsibly!" -->
+    <dimen name="textSize3">20sp</dimen>
+
+    <dimen name="myLayout1">0dp</dimen>
+    <dimen name="myPadding1">20dp</dimen>
+    <dimen name="myPadding2">10dp</dimen>
+    <dimen name="margin1">16dp</dimen>
+    <dimen name="margin2">75dp</dimen>
+    <dimen name="margin3">40dp</dimen>
+    <dimen name="myPadding3">75dp</dimen>
+</resources>

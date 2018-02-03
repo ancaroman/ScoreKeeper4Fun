@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color of the textView "Drink responsibly!"-->
+    <color name="darkOrange">#4E342E</color>
+
+    <!-- Color of the Reset button -->
+    <color name="red">#d81532</color>
+
+    <!-- Color of the score textView-->
+    <color name="black">#000000</color>
+
+    <!-- Background color for the team name textView -->
+    <color name="transparency">#80FFFFFF</color>
+
+    <!-- Text color for the team names -->
+    <color name="grey">#212121</color>
+</resources>
